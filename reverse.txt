@@ -1,0 +1,2 @@
+tưởng,khó,không,thiếu,kém,giảm,mất,ít,chưa,chẳng,chỉ,bất,đừng,phủ_nhận,ảo_tưởng,chống
+thấp,có_hạn,kém,giảm,ít

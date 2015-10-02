@@ -1,0 +1,5 @@
+1. User thumb (1 => true, 0 => false)
+2. System Flag 
+3. The input quote
+
+---------------------------------------
